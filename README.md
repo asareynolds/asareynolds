@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Intermediate Java Challenges](https://github.com/asareynolds/Java-Challenges)
 
-- 🌱 I’m currently learning **PowerShell, InfoSec, and x86 Assembly**
+- 🌱 Right now, I'm learning **PowerShell, InfoSec, and x86 Assembly**
 
 - 👨‍💻 See my projects at [asareynolds.com](asareynolds.com)
 
