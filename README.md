@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Asa</h1>
-<h3 align="center">I'm a cybersecurity student at PSU</h3>
+<h3 align="center">I'm a cybersecurity student at Penn State</h3>
 
 - 🔭 I’m currently working on [Intermediate Java Challenges](https://github.com/asareynolds/Java-Challenges)
 
-- 🌱 I’m currently learning **PowerShell, InfoSec, x86 Assembly**
+- 🌱 I’m currently learning **PowerShell, InfoSec, and x86 Assembly**
 
 - 👨‍💻 See my projects at [asareynolds.com](asareynolds.com)
 
