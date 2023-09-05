@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Asa</h1>
-<h3 align="center">I'm a cybersecurity student at Penn State</h3>
+<h3 align="center">I'm a cybersecurity student at Penn State - nice to meet you!</h3>
 
 - 🔭 I’m currently working on [Intermediate Java Challenges](https://github.com/asareynolds/Java-Challenges)
 
