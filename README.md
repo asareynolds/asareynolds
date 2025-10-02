@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Asa</h1>
 <h3 align="center">I'm a cybersecurity student at Penn State - nice to meet you!</h3>
 
-- 🔭 I’m currently working on [Intermediate Java Challenges](https://github.com/asareynolds/Java-Challenges)
+- 🔭 I’m currently working on developing CTFs... stay tuned!
 
-- 🌱 Right now, I'm learning **PowerShell, InfoSec, and x86 Assembly**
+- 🌱 Right now, I'm learning **Offensive Security, Enterprise Penetration Testing, and Applied Cryptography**
 
 - 👨‍💻 See my projects at [asareynolds.com](https://www.asareynolds.com)
 
